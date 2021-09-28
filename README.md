@@ -7,7 +7,7 @@ Exemplo de Slideshow criado com JavaScript sem uso de bibliotecas ou plugins.
 3. Enjoy!
 
 ## Capturas de tela
-<img width="600" src="https://github.com/lucasfrag/JavaScript-Slideshow-Exemplo/blob/master/print.png" >
+<img width="800" src="https://github.com/lucasfrag/HTML-CSS-JavaScript-Exemplo/blob/master/print.jpg" >
 
 ## Desenvolvido com...
 
